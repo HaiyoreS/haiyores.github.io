@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "predeploy": "npm run dev",
-    "deploy": "gh-pages -d react-weather-app",
+    "deploy": "gh-pages -d",
     "preview": "vite preview"
   },
   "dependencies": {
