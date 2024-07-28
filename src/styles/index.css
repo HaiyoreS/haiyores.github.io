@@ -16,7 +16,7 @@ body {
 .app {
     width: 458px;
     height: 600px;
-    background:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.1)), url(images/background.jpg);
+    background:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.1)), url(background.jpg);
     
     background-repeat: no-repeat;
     background-position: center;
